@@ -6,3 +6,6 @@ can be changed to any attribute (after code edit)
 handles error in pdp, cart, minicart
 warning at pdp, cart, minicart
 qty and color codes can be configured in admin , catalog>limited cart>config
+
+
+any help required:contact:nagrgk@gmail.com
